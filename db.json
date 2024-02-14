@@ -1,33 +1,26 @@
 {
-  "projects": [
+  "characters": [
     {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "name": "Kumagik",
+      "description": "Opens CSS portals with his mind",
+      "power": "Display flex",
+      "image_url": "https://res.cloudinary.com/marcelusironhack/image/upload/v1707918737/wizard_pzrnen.webp",
+      "id": 4
     },
     {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
+      "name": "Gavtopus",
+      "description": "This beast is capable of catching all the syntax errors and destroy them",
+      "power": "Import axios from 'axios'",
+      "image_url": "https://res.cloudinary.com/marcelusironhack/image/upload/v1707918996/octopus_tl8zpl.webp",
+      "id": 5
+    },
+    {
+      "name": "Barvoyant",
+      "description": "She predicts the future of your code",
+      "power": "Export default",
+      "image_url": "https://res.cloudinary.com/marcelusironhack/image/upload/v1707919010/clairvoyant-ball_hhgpa1.webp",
+      "id": 6
     }
   ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
-    }
-  ]
+  "equipments": []
 }
